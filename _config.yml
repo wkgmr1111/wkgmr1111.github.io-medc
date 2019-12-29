@@ -8,9 +8,9 @@ author:
 description: only my simple vision of casper theme
 # baseurl: "/"
 url: https://wkgmr1111.github.io/wkgmr1111.github.io-medc/
-twitter_username: hugocolombo23
-github_username:  hugocarreira
-github_url: https://wkgmr1111.github.io-medc/
+# twitter_username: hugocolombo23
+# github_username:  hugocarreira
+# github_url: https://wkgmr1111.github.io-medc/
 
 # Build settings
 permalink: :title
